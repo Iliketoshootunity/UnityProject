@@ -1,0 +1,34 @@
+ManifestFileVersion: 0
+CRC: 458630133
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: download/prefab/testprefab.assetbundle
+      Dependencies: {}
+    Info_1:
+      Name: download/prefab/roleprefab/player/cube.assetbundle
+      Dependencies: {}
+    Info_2:
+      Name: download/prefab/roleprefab/monster/sphere.assetbundle
+      Dependencies: {}
+    Info_3:
+      Name: download/prefab/roleprefab/monster/new folder/sphere.assetbundle
+      Dependencies: {}
+    Info_4:
+      Name: download/prefab/roleprefab/player/role_job_warrior.assetbundle
+      Dependencies: {}
+    Info_5:
+      Name: download/prefab/roleprefab/player/role_job_master.assetbundle
+      Dependencies: {}
+    Info_6:
+      Name: download/prefab/roleprefab/npc/npc_tiejian.assetbundle
+      Dependencies: {}
+    Info_7:
+      Name: download/prefab/roleprefab/monster/role_monster_1.assetbundle
+      Dependencies: {}
+    Info_8:
+      Name: download/prefab/roleprefab/monster/role_monster_2.assetbundle
+      Dependencies: {}
+    Info_9:
+      Name: download/prefab/roleprefab/monster/role_monster_shibingboss.assetbundle
+      Dependencies: {}

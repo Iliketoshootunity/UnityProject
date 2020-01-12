@@ -1,0 +1,44 @@
+ManifestFileVersion: 0
+CRC: 312257977
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5aa6e895b915ddb01dd12b8bfe225283
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c56df0586971a4f967d31a32ce81c709
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: f5dea9426c185cb428e73dc7962919ed, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7f78891c0131fc2488d2ef943c086c56, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+Assets:
+- Assets/DownLoad/Prefab/Effect/Role/Role_Job_Warrior_Effect_Phy1.prefab
+Dependencies: []

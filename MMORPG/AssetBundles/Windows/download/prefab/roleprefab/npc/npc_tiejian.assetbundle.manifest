@@ -1,0 +1,40 @@
+ManifestFileVersion: 0
+CRC: 59786367
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 234fbc15c9fcca08e91436ce10b1a26e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 94d2e2e7ae83b4898d93bb7a41e3545d
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: e6179b09ef5953d4eaec2570522c76d5, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+Assets:
+- Assets/DownLoad/Prefab/RolePrefab/NPC/NPC_TieJian.prefab
+Dependencies: []

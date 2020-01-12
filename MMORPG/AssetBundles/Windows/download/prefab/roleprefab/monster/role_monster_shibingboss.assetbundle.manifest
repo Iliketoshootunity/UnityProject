@@ -1,0 +1,48 @@
+ManifestFileVersion: 0
+CRC: 2979220020
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9b56298524de392b3fbbcd7d429e4f8e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 59d5d603431171b2eb4b27dec63a6b5e
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 77f586f285b3847808d79083bd19ef1f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 49a527a6c82133c4abe4ea2abde71bf0, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 373b52eb9bf8c40f785bb6947a1aee66, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+- Class: 143
+  Script: {instanceID: 0}
+- Class: 221
+  Script: {instanceID: 0}
+Assets:
+- Assets/DownLoad/Prefab/RolePrefab/Monster/Role_Monster_ShiBingBoss.prefab
+Dependencies: []

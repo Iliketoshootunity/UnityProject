@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Root>
+  <AssetBundle>
+    
+    <Item Name="Player预设" Tag="Role" IsFolder="True" IsFirstData="True">
+      <Path Value="DownLoad/Prefab/RolePrefab/Player" />
+    </Item>
+    <Item Name="NPC预设" Tag="Role" IsFolder="True" IsFirstData="True">
+      <Path Value="DownLoad/Prefab/RolePrefab/NPC" />
+    </Item>
+    <Item Name="Monster预设" Tag="Role" IsFolder="True" IsFirstData="False">
+      <Path Value="DownLoad/Prefab/RolePrefab/Monster" />
+    </Item>
+
+    <Item Name="通用特效" Tag="Effect" IsFolder="True" IsFirstData="True">
+      <Path Value="DownLoad/Prefab/Effect/Common" />
+    </Item>
+    <Item Name="角色技能特效" Tag="Effect" IsFolder="True" IsFirstData="False">
+      <Path Value="DownLoad/Prefab/Effect/Role" />
+    </Item>
+
+    <Item Name="初始场景" Tag="Scene" IsFolder="False" IsFirstData="True">
+      <Path Value="DownLoad/Scene/SelectRole.unity" />
+    </Item>
+
+
+  </AssetBundle>
+</Root>
